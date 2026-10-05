@@ -1,0 +1,11 @@
+Data Category,Processing Purpose,Legal Basis,Source (Form/API),Storage Location,Retention Period,Shared With
+Student Name,Admission & Academic Records,Contract,N/A (Form),students_table,5 years after graduation,Examination Board
+Roll Number,Admission & Academic Records,Contract,N/A (Form),students_table,5 years after graduation,None
+Email Address,Communication & Notifications,Consent,N/A (Form),students_table,Until withdrawal of consent,None
+Phone Number,Communication & Notifications,Consent,N/A (Form),students_table,Until withdrawal of consent,None
+Home Address,Administrative & Shipping,Contract,N/A (Form),students_table,5 years after graduation,None
+Date of Birth,Academic Records & Age‑based Eligibility,Contract,N/A (Form),students_table,5 years after graduation,None
+Gender,Diversity Reporting,Legitimate Interest,N/A (Form),students_table,5 years after graduation,None
+Health Information (Allergies),Student Welfare,Consent,N/A (Form),health_table,Duration of enrollment,Medical Services
+Academic Grades,Examination & Certification,Contract,N/A (Form),grades_table,5 years after graduation,Examination Board
+Attendance Records,Academic Monitoring,Contract,N/A (Form),attendance_table,1 year after course end,None
